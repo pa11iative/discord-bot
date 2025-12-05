@@ -1,0 +1,5 @@
+disnake
+Pillow
+motor
+python-dateutil
+pytz
